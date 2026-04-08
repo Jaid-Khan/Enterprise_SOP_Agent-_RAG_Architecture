@@ -75,20 +75,6 @@ An SOP Agent is an AI system that helps employees quickly find and understand co
 
 ---
 
-### 🧑‍💻 For Job Seekers:
-
-* Browse available job listings
-* View detailed job descriptions
-* Apply to jobs easily
-* Responsive UI for mobile & desktop
-
-### 🏢 For Admin/Recruiter:
-
-* Admin panel to manage jobs
-* Create, update, and delete job posts
-* Control job visibility
-* Manage platform data efficiently
-
 ### ⚙️ Technical Highlights:
 
 * **Frontend:** React.js with modern hooks (useState, useEffect)
