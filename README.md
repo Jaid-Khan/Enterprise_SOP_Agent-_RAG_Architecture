@@ -320,11 +320,6 @@ This project is designed with scalability in mind and follows industry-level MER
 
 ---
 
-## 📄 License
-
-This project is open-source and free to use.
-
----
 
 ## 💡 Final Tip
 
